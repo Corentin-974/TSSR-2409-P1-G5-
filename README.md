@@ -1,4 +1,4 @@
-# Projet 1 : Gestio Base de données chiffrée et sécurisée avec KeePass
+# Projet 1 : Gestion Base de données chiffrée et sécurisée avec KeePass
 
 ## Objectif principal
 Création d’une base de données sécurisée et chiffrée, hébergée sur un serveur Windows Server 2022, et accessible à partir de plusieurs clients via le logiciel **KeePass**.
