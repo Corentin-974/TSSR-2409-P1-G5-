@@ -44,3 +44,7 @@ Le projet comprend également un objectif secondaire consistant à valider la **
 - **Product Owner** : Karim
 - **Scrum Master** : Benjamin
 - **Développeur** : Corentin
+
+# Choix techniques
+
+Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour le côté client, il a été décidé d'utiliser Ubuntu pour le Client 1 car simple à utliser et Windows 10/11 pour le client 2 qui est facilement trouvable sur internet et instalable.
