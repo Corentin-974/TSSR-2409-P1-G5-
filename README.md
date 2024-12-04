@@ -74,7 +74,7 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 
 Autres gestionnaires de mots de passe :
 
-1. KeeWeb
+**1. KeeWeb**
 
 Type : Open-source.
 
@@ -85,7 +85,7 @@ Caractéristiques :
 - Fonctionne en mode hors ligne et peut être auto-hébergé.
 - Interface web et applications de bureau.
 
-2. Bitwarden (auto-hébergé ou cloud)
+**2. Bitwarden** (auto-hébergé ou cloud)
    
 Type : Open-source avec options gratuites et payantes.
 
