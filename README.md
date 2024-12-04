@@ -105,4 +105,11 @@ Caractéristiques :
 - Chiffrement de bout en bout.
 - Peut être auto-hébergé.
 - Intégrations avec navigateurs.
+
+
+Le script prend 3 arguments : le signe ‘+’ ou ‘-’, et 2 nombres compris entre 0 et 10.
+On vérifie l’existence des arguments et s’ils correspondent aux critères. Dans le cas contraire, on sort du script avec un message.
+Si le premier argument est “+”, les 2 nombres sont passés en paramètre d’une fonction addition qui fait la somme des nombre et affiche le résultat.
+Si c’est “-”, ils sont envoyés dans une fonction soustraction qui fait la soustraction des 2 nombres et affiche le résultat. Une alerte est affichée en plus si le résultat est négatif.
+
   
