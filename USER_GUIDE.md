@@ -2,8 +2,7 @@
 
 ## Sommaire
 
-[Nous allons créer une nouvelle base de données dans KeePass2]
-
+[Nous allons créer une nouvelle base de données dans KeePass2](#nous-allons-créer-une-nouvelle-base-de-données-dans-keepass2)
 
 [Ajouter un mot de passe](#ajouter-un-mot-de-passe)
 
