@@ -41,9 +41,9 @@ Le projet comprend également un objectif secondaire consistant à valider la **
 - **Développeur** : Benjamin
 
 ## Sprint 2
-- **Product Owner** : Karim
+- **Product Owner** : Corentin
 - **Scrum Master** : Benjamin
-- **Développeur** : Corentin
+- **Développeur** : Karim
 
 # Choix techniques
 
@@ -59,8 +59,40 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 **Partager correctement la BDD** : rendre visible le dossier de la BDD sur le réseau partagé + configurer correctement les propriétés de partage du dossier pour que les clients aint les droits d'exécution, d'écriture et de lecture,
 
 **Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client.                                         
+# Solutions et alternatives trouvés
 
-Reste à faire :
 
-Solutions trouvées : Solutions et alternatives trouvées
-Améliorations possibles : suggestions d’améliorations futures
+# Les solutions
+
+# Améliorations possibles
+
+
+
+
+
+
+
+Autres gestionnaires de mots de passe :
+
+1. KeeWeb
+
+Type : Open-source.
+
+Plateformes : Windows, macOS, Linux, Web.
+
+Caractéristiques :
+- Compatible avec les fichiers KeePass.
+- Fonctionne en mode hors ligne et peut être auto-hébergé.
+- Interface web et applications de bureau.
+
+2. Bitwarden (auto-hébergé ou cloud)
+   
+Type : Open-source avec options gratuites et payantes.
+
+Plateformes : Windows, macOS, Linux, Android, iOS, Web.
+
+Caractéristiques :
+- Chiffrement de bout en bout.
+- Peut être auto-hébergé.
+- Intégrations avec navigateurs.
+  
