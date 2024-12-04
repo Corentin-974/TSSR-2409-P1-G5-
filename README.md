@@ -68,21 +68,35 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 
 **Ping du client au serveur** : pour que le client puisse pinger le serveur, il est nécessaire de vérifier que les paramètres réseau des machines virtuelles (VM) du client et du serveur sont configurés en mode accès par pont. Ce mode permet à chaque VM de se connecter directement au réseau local de l’hôte, comme si elles étaient des appareils physiques sur le même réseau. Cela leur attribue une adresse IP sur le même réseau que l’hôte, facilitant ainsi la communication entre elles,
 
-**Partager correctement la BDD** : 
+**Partager correctement la BDD** : il faut partager correctement le dossier contenant la base de données en sélectionant "tout le monde" et en donnant seulement les droits d'écriture et de lecture pour que les clients puissent avoir accès à KeePass et qu'ils puissent y ajouter des mots de passes,
 
-**Monter la BDD sur le client** :  
+**Monter la BDD sur le client** :  trouver la bonne commande à utiliser pour monter la BDD partagé dans un dossier préalablement créé dans l'interface du client. De plus, nous avons automatisé le montage pour qui se fasse automatiquement au démarrage du poste client en metttant la ligne de commande en question dans le gestionnaire de disque "fstab",  
 
-**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : 
+**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : lorsque que l'on est sur KeePass et qu'on créé un nouveau mot de passe, il y a un onglet "AutoType" qui permet de rentrer automatiquement les informations de connexion dans le site web qui doit être préalablement ouvert en arrière plan. De plus, dans cet onglet, on peut remplacer la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} en fonction du fonctionnement de connexion qu'à le site internet.
 
 # Améliorations possibles
 
+KeePass possède une multitude d'extensions qui peuvent être installées et utilisées pour faciliter la gestion de ses mots de passe :
+
+### - KeeAgent  
+- **Description** : Fournit une intégration avec Pageant, un agent SSH, permettant d'utiliser des clés SSH stockées dans KeePass pour des connexions sécurisées.  
+- **Utilité** : Simplifie l'accès aux serveurs SSH sans avoir à gérer les clés séparément.
+
+### - KeeTheme  
+- **Description** : Permet de personnaliser l'apparence de KeePass avec différents thèmes.  
+- **Utilité** : Améliore l'expérience utilisateur grâce à des thèmes sombres ou colorés, plus agréables pour les yeux.
+
+### - KeePass Tusk  
+- **Description** : Extension pour les navigateurs basés sur Chromium (comme Chrome et Edge), qui permet d'accéder aux bases de données KeePass stockées sur des services cloud (comme Google Drive, OneDrive).  
+- **Utilité** : Synchronisez et accédez à vos mots de passe depuis différents appareils.
+
+### - KeeAutoExec  
+- **Description** : Ajoute la possibilité d'exécuter des commandes ou des scripts après l'ouverture ou la fermeture de la base de données KeePass.  
+- **Utilité** : Automatiser certaines tâches comme la sauvegarde ou la synchronisation.
 
 
 
-
-
-
-Autres gestionnaires de mots de passe :
+## Autres gestionnaires de mots de passe 
 
 **1. KeeWeb**
 
