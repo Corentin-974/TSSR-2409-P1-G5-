@@ -58,7 +58,11 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 
 **Partager correctement la BDD** : rendre visible le dossier de la BDD sur le réseau partagé + configurer correctement les propriétés de partage du dossier pour que les clients aint les droits d'exécution, d'écriture et de lecture,
 
-**Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client.                                         
+**Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client.   
+
+**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : Après avoir enregistré ses informations de connexion dans KeePass pour un site web, on souhaite remplir automatiquement le nom d'utilisateur et le mot de passe lors de l'accès à la page de connexion du site.
+
+
 # Solutions et alternatives trouvés
 
 
