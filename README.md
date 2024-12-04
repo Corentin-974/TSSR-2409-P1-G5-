@@ -49,9 +49,17 @@ Le projet comprend également un objectif secondaire consistant à valider la **
 
 Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour le côté client, il a été décidé d'utiliser Ubuntu pour le Client 1 car simple à utliser et Windows 10/11 pour le client 2 qui est facilement trouvable sur internet et instalable.
 
+# Difficultés rencontrés 
+
+
+**Configurer les adresses IP** : trouver la bonne configuration de l'adresse IP du serveur et du client avec le bon masque de sous réseau,                                                 
+**Ping du client au serveur** : réussir à ping le serveur à partir du client et donc avoir accès aux documents partagés du serveur,
+
+**Partager correctement la BDD** : rendre visible le dossier de la BDD sur le réseau partagé + configurer correctement les propriétés de partage du dossier pour que les clients aint les droits d'exécution, d'écriture et de lecture,
+
+**Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client.                                         
 
 Reste à faire :
 
-Difficultés rencontrées : problèmes techniques rencontrés
 Solutions trouvées : Solutions et alternatives trouvées
 Améliorations possibles : suggestions d’améliorations futures
