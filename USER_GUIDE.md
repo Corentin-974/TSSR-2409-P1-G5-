@@ -1,3 +1,24 @@
+
+On doit avoir dans cette documentation :
+Utilisation de base : comment utiliser les fonctionnalités clés
+Utilisation avancée : comment utiliser au mieux les options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # FAQ - Keepass
 
 ## J'ai oublié mon mot de passe principal, que faire ?
