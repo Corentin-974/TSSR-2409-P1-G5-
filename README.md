@@ -58,15 +58,21 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 
 **Partager correctement la BDD** : rendre visible le dossier de la BDD sur le réseau partagé + configurer correctement les propriétés de partage du dossier pour que les clients aint les droits d'exécution, d'écriture et de lecture,
 
-**Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client.   
+**Monter la BDD sur le client** : trouver la bonne ligne de commande pour récupérer et monter le dossier partagé sur le poste client,   
 
 **Rentrer le nom d'utilisateur et le mot de passe automatiquement** : Après avoir enregistré ses informations de connexion dans KeePass pour un site web, on souhaite remplir automatiquement le nom d'utilisateur et le mot de passe lors de l'accès à la page de connexion du site.
 
-
-# Solutions et alternatives trouvés
-
-
 # Les solutions
+
+**Configurer les adresses IP** : après avoir saisi l’adresse IP attribuée au projet, il faut sélectionner le masque de sous-réseau 255.255.255.0 pour permettre la communication entre le serveur et le client. Ensuite, pour accéder à Internet avec cette IP, il est nécessaire de renseigner la passerelle et les serveurs DNS (comme 8.8.8.8 et 1.1.1.1) qui facilitent l’accès à des services en ligne,
+
+**Ping du client au serveur** : pour que le client puisse pinger le serveur, il est nécessaire de vérifier que les paramètres réseau des machines virtuelles (VM) du client et du serveur sont configurés en mode accès par pont. Ce mode permet à chaque VM de se connecter directement au réseau local de l’hôte, comme si elles étaient des appareils physiques sur le même réseau. Cela leur attribue une adresse IP sur le même réseau que l’hôte, facilitant ainsi la communication entre elles,
+
+**Partager correctement la BDD** : 
+
+**Monter la BDD sur le client** :  
+
+**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : 
 
 # Améliorations possibles
 
