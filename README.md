@@ -13,8 +13,8 @@ Création d’une base de données sécurisée et chiffrée, hébergée sur un s
 Assurer que le deuxième client utilise un **système d’exploitation différent** du premier (exemple : un client sous Windows et un autre sous Linux ou macOS).
 
 ## Schéma d’utilisation
-1. **Client 1** : Poste sous Windows accédant à la base via KeePass.
-2. **Client 2** : Poste sous Linux ou macOS accédant via KeePassXC ou autre solution compatible.
+1. **Client 1** : Poste sous Linux accédant via KeePass2 ou autre solution compatible.
+2. **Client 2** : Poste sous Windows accédant à la base via KeePass.
 
 ## Sécurisation et gestion des accès
 - Utilisation de **protocoles sécurisés** (SMB sécurisé ou HTTPS).
