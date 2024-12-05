@@ -93,6 +93,13 @@ Ensuite, KeePass vous proposera d'associer le logiciel avec l'extension de fichi
   
  ![Capture d'écran 2024-12-05 123158](https://github.com/user-attachments/assets/03446c04-6ad9-46e0-ac2e-18c14a45231b)
 
+- Rédemarrez le logiciel voilà c'est en Français
+
+
+![Capture d'écran 2024-12-05 122740](https://github.com/user-attachments/assets/780c4002-1668-4bfb-9316-b61b4c6dd38e)
+
+
+
 
 
 
