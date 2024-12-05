@@ -2,7 +2,7 @@
 
 ### Sommaire
 
-- [Étape 1 : Télécharger KeePass 2](#étape-1-télécharger-keepass-2)
+- [Étape 1 : Télécharger KeePass 2](https://github.com/Corentin-974/TSSR-2409-P1-G5-/blob/main/INSTALL.md#--etape-1--t%C3%A9l%C3%A9charger-keepass2)
 - [Étape 2 : Lancer l'exécutable](#étape-2-lancer-lexécutable)
 - [Étape 3 : Lancer l'installation](#étape-3-lancer-linstallation)
 - [Étape 4 : Finaliser l'installation](#étape-4-finaliser-linstallation)
