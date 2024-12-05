@@ -1,12 +1,17 @@
 
+# Etapes d'installation et Configuration de Windows Server 2022
 
-![Capture d'écran 2024-12-05 110208](https://github.com/user-attachments/assets/8638db74-7f8a-42a9-b4bf-92ed3a5eb320)
+## Configuration VM (VirtualBox)
+- Sur votre VM, cliquer sur Nouvelle
+- 
+- 
+
+![Capture d'écran 2024-12-05 115712](https://github.com/user-attachments/assets/a0801cfb-d1f1-4e95-acaa-b2296685a710)
 
 
 
+![Capture d'écran 2024-12-05 115904](https://github.com/user-attachments/assets/37564f55-50ac-4086-87c6-a819f23364df)
 
-
-![Capture d'écran 2024-12-05 110331](https://github.com/user-attachments/assets/1775bc17-3192-426a-ae5f-87a9efb1aa5f)
 
 
 
@@ -15,7 +20,8 @@
 
 
 
-![Capture d'écran 2024-12-05 110600](https://github.com/user-attachments/assets/c70e4eee-4a2f-498b-9eaf-7ce9983ad550)
+![Capture d'écran 2024-12-05 120009](https://github.com/user-attachments/assets/c0a46ca6-b531-4626-a4a1-47e1c3997fd4)
+
 
 
 
