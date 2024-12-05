@@ -2,12 +2,12 @@
 
 ### Sommaire
 
-- [Étape 1 : Télécharger KeePass 2](#étape-1-télécharger-keepass-2)
-- [Étape 2 : Lancer l'exécutable](#étape-2-lancer-lexécutable)
-- [Étape 3 : Lancer l'installation](#étape-3-lancer-linstallation)
-- [Étape 4 : Finaliser l'installation](#étape-4-finaliser-linstallation)
-- [Étape 5 : Lancer KeePass 2](#étape-5-lancer-keepass-2)
-- [Étape 6 : Changement de langue (optionnel)](#étape-6-changement-de-langue-optionnel)
+- [Télécharger KeePass 2](#étape-1-télécharger-keepass-2)
+- [Lancer l'exécutable](#étape-2-lancer-lexécutable)
+- [Lancer l'installation](#étape-3-lancer-linstallation)
+- [Finaliser l'installation](#étape-4-finaliser-linstallation)
+- [Lancer KeePass 2](#étape-5-lancer-keepass-2)
+- [Changement de langue (optionnel)](#étape-6-changement-de-langue-optionnel)
 
 
 
