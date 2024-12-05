@@ -1,5 +1,17 @@
 # _**Guide d'installation v2.57.1 de KeePass2**_
 
+### Sommaire
+
+- [Étape 1 : Télécharger KeePass 2](#étape-1-télécharger-keepass-2)
+- [Étape 2 : Lancer l'exécutable](#étape-2-lancer-lexécutable)
+- [Étape 3 : Lancer l'installation](#étape-3-lancer-linstallation)
+- [Étape 4 : Finaliser l'installation](#étape-4-finaliser-linstallation)
+- [Étape 5 : Lancer KeePass 2](#étape-5-lancer-keepass-2)
+- [Étape 6 : Changement de langue (optionnel)](#étape-6-changement-de-langue-optionnel)
+
+
+
+
 
 ###  - _**Etape 1 : Télécharger Keepass2**_ 
 Rendez-vous sur le site officiel **[keepass](https://keepass.info/)** "À l'heure de la documentation, la version 2.57.1 est celle à télécharger."
