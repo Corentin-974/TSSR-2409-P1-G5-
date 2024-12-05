@@ -72,7 +72,7 @@ Pour ce projet, nous utiliserons Windows server version 2022 comme serveur. Pour
 
 **Monter la BDD sur le client** :  trouver la bonne commande à utiliser pour monter la BDD partagé dans un dossier préalablement créé dans l'interface du client. De plus, nous avons automatisé le montage pour qui se fasse automatiquement au démarrage du poste client en metttant la ligne de commande en question dans le gestionnaire de disque "fstab",  
 
-**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : lorsque que l'on est sur KeePass et qu'on créé un nouveau mot de passe, il y a un onglet "AutoType" qui permet de rentrer automatiquement les informations de connexion dans le site web qui doit être préalablement ouvert en arrière plan. De plus, dans cet onglet, on peut remplacer la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} en fonction du fonctionnement de connexion qu'à le site internet.
+**Rentrer le nom d'utilisateur et le mot de passe automatiquement** : lorsque que l'on est sur KeePass et qu'on créé un nouveau mot de passe, il y a un onglet "AutoType" qui permet de rentrer automatiquement les informations de connexion dans le site web qui doit être préalablement ouvert en arrière plan. Pour cela, il a fallu installer Xdotool sur le client Ubuntu avec la ligne de commande "sudo apt-get installXdtools" pour simuler  les frappes claviers de l'utilisateur. De plus, dans cet onglet, on peut remplacer la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} en fonction du fonctionnement de connexion qu'à le site internet.
 
 # Améliorations possibles
 
