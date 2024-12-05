@@ -148,7 +148,7 @@ Faites un clic droit sur l'entrée, sélectionnez "Edit entry", puis allez dans 
 
 
 
-## FAQ - Keepass
+<h2 style="color: blue;">## FAQ - Keepass</h2>
 
 1. ## J'ai oublié mon mot de passe principal, que faire ?
 Si vous avez oublié votre mot de passe principal, il n'est pas possible de le récupérer. KeePass crypte la base de données avec ce mot de passe, donc sans lui, vous ne pouvez pas accéder à vos données. Il est crucial de conserver ce mot de passe en lieu sûr.
